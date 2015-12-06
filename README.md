@@ -1,5 +1,4 @@
 # Scraper-Consoleapp
-# Scraper-Consoleapp
 Developed and tested on LAMP environment. 
 
 Code works with   PHP version >= 5.3.10
